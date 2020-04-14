@@ -4,3 +4,4 @@ It's a nice topic
 change 1
 change 2
 I am changing a file on origin
+Permission denied error
